@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spike-11-github-io.pages.dev</id>
     <title>spike-site</title>
-    <updated>2021-05-26T05:22:46.982Z</updated>
+    <updated>2021-05-28T15:26:16.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://spike-11-github-io.pages.dev"/>
     <link rel="self" href="https://spike-11-github-io.pages.dev/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://spike-11-github-io.pages.dev/images/avatar.png</logo>
     <icon>https://spike-11-github-io.pages.dev/favicon.ico</icon>
     <rights>All rights reserved 2021, spike-site</rights>
+    <entry>
+        <title type="html"><![CDATA[诗词中的革命浪漫主义精神（一）陈毅梅岭三章]]></title>
+        <id>https://spike-11-github-io.pages.dev/post/shici1/</id>
+        <link href="https://spike-11-github-io.pages.dev/post/shici1/">
+        </link>
+        <updated>2021-05-28T06:57:38.000Z</updated>
+        <summary type="html"><![CDATA[<p>断头今日意如何？创业艰难百战多。<br>
+此去泉台招旧部，旌旗十万斩阎罗。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>断头今日意如何？创业艰难百战多。<br>
+此去泉台招旧部，旌旗十万斩阎罗。</p>
+<!-- more -->
+<p>南国烽烟正十年，此头须向国门悬。<br>
+后死诸君多努力，捷报飞来当纸钱。</p>
+<p>投身革命即为家，血雨腥风应有涯。<br>
+取义成仁今日事，人间遍种自由花。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第一个博客First blog]]></title>
         <id>https://spike-11-github-io.pages.dev/post/di-yi-ge-bo-ke-first-blog/</id>
